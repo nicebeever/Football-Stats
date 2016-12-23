@@ -1,0 +1,34 @@
+Home Team Stats: Hull City
+Average Home
+Possion       Shots  Shots on Target     Corners   Fouls     Goals
+ 43.43        8.71        2.71           3.00     10.71      0.86
+L = Lost Home O = Lost away D = Draw Home Y = Draw away W = Win Home A = Win away
+Position: 19 Form: DOHOLOLOLY Division: PL
+Formation: 4-4-1-1 Used: 2
+Won Against Formation: 4-3-3 Used: 1
+Drawn Against Formation: 4-2-3-1 Used: 1
+Teams played at home around away team position
+Won: 2 Drawn: 0 Lost: 0
+Scored: 4 Conceded: 2
+Defenders: 4 Midfielders: 5 Attackers: 1
+Top team scored: 0.77 conceded: 1.18
+Last team scored: 1.64 conceded: 2.94
+Total number of home games: 7
+
+Away Team Stats: Middlesbrough
+Average Home
+Possion       Shots  Shots on Target     Corners   Fouls     Goals
+ 49.17        10.33        2.50           4.50     11.33      0.83
+L = Lost Home O = Lost away D = Draw Home Y = Draw away W = Win Home A = Win away
+Position: 16 Form: YLYHYLYLOL Division: PL
+Formation: 4-5-1 Used: 3
+Won Against Formation: 4-2-3-1 Used: 1
+Lost Against Formation: 3-4-3 Used: 1
+Teams played away around home team position
+Won: 1 Drawn: 2 Lost: 0
+Scored: 5 Conceded: 4
+Defenders: 4 Midfielders: 5 Attackers: 1
+Top team scored: 1.28 conceded: 0.94
+Last team scored: 2.49 conceded: 2.02
+Total number of away games: 7
+

@@ -1,0 +1,12 @@
+class Player(object):
+
+    def__init__(self, name, position, score, played, subs):
+        self.name = name
+        self.pos = position
+        self.goals = goals
+        self.appearances = played
+        self.subs = subs
+        
+    def getName(self):
+        return self.name
+        
